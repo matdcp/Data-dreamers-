@@ -1,6 +1,6 @@
 
 Nel main della repository sono presenti i notebook di colab con i seguenti nomi:
-- Il notebook contenente la Data exploratory analysis è salvato come dea_ufficiale
+- Il notebook contenente la Data exploratory analysis è salvato come dea_da_consegnare_ufficiale
 - Il notebook contenente il neural approach è salvato come neural;
 - Infine il notebook contenente la parte reklativa ai transformers è salvato come transformers
 
